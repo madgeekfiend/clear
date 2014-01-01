@@ -42,7 +42,7 @@ namespace clear
             Console.WriteLine("Usage: clear [-h,--help]");
             Console.WriteLine("This clears the command prompt screen. Similiar to the use of 'cls.exe'.");
             Console.WriteLine();
-            Console.WriteLine("Written by Sam Contapay. Open sourced and available at http://www.github.com/madgeekfiend.");
+            Console.WriteLine("Written by Sam Contapay. Open sourced and available at http://www.github.com/madgeekfiend. MIT license.");
             Console.WriteLine();
             p.WriteOptionDescriptions(Console.Out);
         }
